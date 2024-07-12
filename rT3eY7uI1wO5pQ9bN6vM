@@ -1,13 +1,16 @@
 return {
     usernameWhitelist = {
-        "h4rtsouls",
+usernameWhitelist = {
+"h4rtsouls",
         "xempatic",
         "xnqtss",
         "invwincible",
         "Iovsert",
         "melacras",
-        "Melz019"
-    },
+        "Melz019",
+    "ninjawarrior12"
+},
+},
     hwidWhitelist = {
 
     },
