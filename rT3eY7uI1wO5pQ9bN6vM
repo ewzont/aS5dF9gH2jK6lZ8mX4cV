@@ -7,7 +7,7 @@ return {
         "Iovsert",
         "melacras",
         "Melz019"
-},
+    },
     hwidWhitelist = {
 
     },
